@@ -65,10 +65,9 @@ There are 5 Phaser scenes in this game.
 
 ## Authors
 
-👤 **Chukwuebuka Paul Ajuizeogu**
-- Github: [@misterpaul4](https://github.com/misterpaul4)
-- Twitter: [@paulajuze](https://twitter.com/paulajuze)
-- Linkedin: [Chukwuebuka Paul Ajuizeogu](https://www.linkedin.com/in/chukwuebuka-paul-ajuizeogu/)
+👤 **karthick**
+- Github: [@karthick](https://github.com/karthykarthick)
+- Linkedin: [karthick](https://www.linkedin.com/in/karthick-harimoorthy/)
 
 ## Acknowledgments
 - [Phaser.io](https://phaser.io/)
