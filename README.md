@@ -15,7 +15,7 @@ Runner is a 2D endless runner game built with popular game framework Phaser. The
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://raw.githack.com/karthykarthick/Runner-game-js/feature-branch/docs/index.html)
 
 ## GamePlay
 
