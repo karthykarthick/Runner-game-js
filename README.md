@@ -2,7 +2,7 @@
 
 Runner is a 2D endless runner game built with popular game framework Phaser. The real inspiration of building this type of endless runner game was google chrome's popular T-Rex. I always wanted to reproduce the T-Rex game with some adjustments and this project gave me opportunity to do just that. The goal is to dodge incoming ravens and avoid fallen down as long as you can.
 
-![screenshot](./screenshot.gif)
+![screenshot](./screenshot.png)
 
 ## Built With
 
