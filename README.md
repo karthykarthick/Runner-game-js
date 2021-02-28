@@ -17,6 +17,10 @@ Runner is a 2D endless runner game built with popular game framework Phaser. The
 
 [Live Demo Link](https://raw.githack.com/karthykarthick/Runner-game-js/feature-branch/docs/index.html)
 
+## Game Design Document
+
+[Google Docs] (https://docs.google.com/document/d/14RDNOq0H0ZJg_XpIrwAT-fJYt8jo2PP2PMxb0ABWw_U/edit?usp=sharing)
+
 ## GamePlay
 
 Start by entering your username and then click on "START" to start the game. avoid Ravens and falling off the ground by pressing the SPACEBAR key or UP ARROW key to jump. Click on the button underneath the start button to see if you made it to the TOP TEN :blush:
